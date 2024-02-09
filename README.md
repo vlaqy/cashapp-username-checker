@@ -1,4 +1,4 @@
-**CashApp username checker using the status code response to determine the availability of a username.**
+# **CashApp username checker using the status code response to determine the availability of a username.**
 
 
 **How to use**
